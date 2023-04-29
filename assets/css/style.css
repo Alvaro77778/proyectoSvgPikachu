@@ -1,0 +1,16 @@
+.boton {
+    position: absolute;
+    top: 55%;
+    left: 60%;
+    font-size: 40px;
+    background-color: plum;
+    
+}
+
+.boton2 {
+    position: absolute;
+    top: 68%;
+    left: 60%;
+    font-size: 40px;
+    background-color:yellow;
+}
