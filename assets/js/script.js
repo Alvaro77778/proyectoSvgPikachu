@@ -1,4 +1,5 @@
 function cambiarColorPikachu(){
+    
     let cambiarColorLengua = document.getElementById("path2720")
     cambiarColorLengua.style.fill = "#191970"
 
